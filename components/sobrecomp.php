@@ -5,38 +5,22 @@
 </div>
 
 	<!--  Nossa História -->
-	<div class="container center-align" style="margin-top: 8%">
-	<h3 class="white-text">História da <?= $title?></h3>
-	<h6 class="white-text">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe deserunt cum dolor minus eos quaerat modi, dignissimos quas? Delectus, tempora iure. Dicta fugiat voluptatum consequatur consectetur nobis quaerat adipisci sit?
+	<div class="container left-align" style="margin-top: 8%">
+	<h3>Sobre o <?= $title?></h3>
+	<h4>
+  Centro de Estudos em Leitura e Literatura Infantil e Juvenil “Maria Betty Coelho Silva”
+  </h4>
+  <h6 style="line-height: 130%;">
+   <br>
+<p>O CELLIJ da Faculdade de Ciência e Tecnologia – UNESP Presidente Prudente – criado em 1995, com o objetivo principal de formar leitores a partir do texto literário e de proporcionar um diálogo direto com professores, jovens alunos, instâncias governamentais responsáveis pela implementação de políticas públicas no campo da Educação, bem como com discentes do curso de Pedagogia e seus docentes e, posteriormente, com o Programa de Pós-Graduação em Educação. O Centro atende crianças e jovens da Educação Infantil aos anos finais do Ensino Fundamental. Com vários projetos financiados, nacional e internacionalmente, o CELLIJ atua com políticas públicas de leitura, pesquisando e comparando índices de desempenho de estudantes dos anos iniciais do Ensino Fundamental e da Educação Infantil e com ações que possam diminuir os déficits de aprendizagem desses alunos.</p>
 		</h6>
 	</div>
 	<!--  Nossa História -->
 
 	<!--  MVV -->
-   <div class="row center container">
+   <div class="row center white container">
 
-      <div class="white
- mvv col s6 m4 card-panel">
-      	<h5 class="black-text">Missão</h5>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ab non esse soluta, placeat, nobis ut adipisci nam temporibus repellendus earum! Cupiditate libero deleniti quod, eveniet officiis minus suscipit ipsam?
-        </p>
-      </div>
-      <div class="white
- mvv col s6 m4 card-panel">
-      	<h5 class="black-text">Visão</h5>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto amet voluptatem iure similique aspernatur quae saepe nam obcaecati iusto expedita. Libero ab praesentium dicta eum sint officiis, atque cum at!
-		</p>
-      </div>
-      <div class="white
- mvv col s6 m4 card-panel">
-      	<h5 class="black-text">Valores</h5>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi voluptates, optio minus incidunt magnam quidem beatae recusandae reprehenderit, at dicta harum dolorem enim ut cumque, veniam dolores aperiam? Ad, debitis!
-        </p>
-      </div>
+      
 
 </div> 
 </div> 

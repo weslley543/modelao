@@ -2,11 +2,11 @@
      <div class = "row backgroundForm" id="contato">
 			<div class="col s12 m6 offset-m3 formulario">
 				<div class="card" id="formulario">
-					<div class="card-action  light-green darken-4 white-text">
+					<div class="card-action  orange lighten-5">
 						<p class="titulo">ENTRE EM CONTATO<p>
 					</div>
 					<div class="card-content" >
-      				<form action="https://formspree.io/anachfigueira@gmail.com"
+      				<form action=""
       method="POST">
       					<input type="hidden" name="_format" value="plain" />
       					<div class="form-field camposFormulario">
@@ -30,7 +30,7 @@
 							<textarea class="materialize-textarea" name="Mensagem"></textarea>
 						</div><br>
 						<div class="form-field">
-							<input type="submit" value="Enviar" class="btn-large waves green darken-4 effect waves-dark" style="width: 100%;" >
+							<input type="submit" value="Enviar" class="btn-large waves orange lighten-5 effect waves-dark" style="width: 100%;" >
 						</div><br>
       				</form>
 						
